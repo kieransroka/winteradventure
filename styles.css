@@ -287,8 +287,7 @@ iframe {
     /*Splits videos to single collumn*/
     #tipsColLeft {
         text-align: center;
-        padding-left: 15px;
-        padding-right: 26px;
+        display: block;
         margin-left: 0;
         margin-right: 0;
         min-width: 100vw;
@@ -298,8 +297,7 @@ iframe {
 
     #tipsColRight {
         text-align: center;
-        padding-left: 15px;
-        padding-right: 26px;
+        display: block;
         margin-left: 0;
         margin-right: 0;
         max-width: 100%;
@@ -375,8 +373,7 @@ iframe {
 
     #tipsColLeft {
         text-align: center;
-        padding-left: 15px;
-        padding-right: 30px;
+        display: block;
         margin-left: 0;
         margin-right: 0;
         min-width: 100vw;
@@ -386,8 +383,7 @@ iframe {
 
     #tipsColRight {
         text-align: center;
-        padding-left: 15px;
-        padding-right: 30px;
+        display: block;
         margin-left: 0;
         margin-right: 0;
         max-width: 100%;
